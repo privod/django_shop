@@ -5,6 +5,7 @@ env/
 dist/
 build/
 
+
 __pycache__/
 
 *.sqlite3
