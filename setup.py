@@ -11,6 +11,7 @@ setup(
 
     install_requires=[
         'Django==1.9.7',
+        'Pillow==5.0.0'
     ],
     # entry_points={
         # 'console_scripts': [
