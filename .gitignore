@@ -1,6 +1,7 @@
-.idea
-env
-config.egg-info
-dist
-build
+.idea/
+
+env/
+*.egg-info/
+dist/
+build/
 
