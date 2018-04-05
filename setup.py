@@ -11,7 +11,8 @@ setup(
 
     install_requires=[
         'Django==1.9.7',
-        'Pillow==5.0.0'
+        'Pillow==5.0.0',
+        'celery==3.1.18',
     ],
     # entry_points={
         # 'console_scripts': [
