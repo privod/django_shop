@@ -9,9 +9,11 @@ build/
 
 # Python
 __pycache__/
+*.pyc
 
 # Django
 *.sqlite3
 media/
 **/migrations/*
 !**/migrations/__init__.py
+
