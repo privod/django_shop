@@ -1,13 +1,17 @@
+# PtCharm
 .idea/
 
+# Virtualenv
 env/
 *.egg-info/
 dist/
 build/
 
-
+# Python
 __pycache__/
 
+# Django
 *.sqlite3
 media/
-migrations/
+**/migrations/*
+!**/migrations/__init__.py
