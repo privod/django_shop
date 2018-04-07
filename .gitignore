@@ -1,7 +1,11 @@
+# PtCharm
 .idea/
 
+# Virtualenv
 env/
 *.egg-info/
 dist/
 build/
 
+# Python
+__pycache__/
